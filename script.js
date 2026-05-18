@@ -1,4 +1,4 @@
-const whatsappNumber = "55015996047825";
+const whatsappNumber = "55015988335099";
 const message = "Olá, Tiago! Vim pelo site e gostaria de saber mais sobre as aulas.";
 const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 
